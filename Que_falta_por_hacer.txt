@@ -1,0 +1,6 @@
+Sprint 1:
+StringToDisplay:
+-Formato F3
+
+-Implementar el teclado hexadecimal
+-Formatear las palabras que son nombres de instrucciones en el text editor
